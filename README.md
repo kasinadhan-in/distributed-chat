@@ -120,7 +120,7 @@ You can deploy this app using platforms like:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 - **Kasinadhan S**  
   [GitHub Profile](https://github.com/kasinadhan-in)
