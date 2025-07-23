@@ -13,7 +13,6 @@ A real-time distributed chat system built using **Node.js**, **Express**, and **
 - ✅ **Typing indicator**
 - ✅ **Clear Chat** feature
 - ✅ **Light/Dark theme** toggle
-- ✅ Image preview in new tab
 - ✅ Random delay to simulate message reordering
 
 ---
