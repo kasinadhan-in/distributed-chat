@@ -123,7 +123,13 @@ You can deploy this app using platforms like:
 ## 👨‍💻 Author
 
 - **Kasinadhan S**  
-  [GitHub Profile](https://github.com/your-username)
+  [GitHub Profile](https://github.com/kasinadhan-in)
+- **Pranav P**  
+  [GitHub Profile](https://github.com/Pranavp2004)
+- **Adithya Krishna**  
+  [GitHub Profile](https://github.com/user-name)
+- **Bharadwaj Kesav**  
+  [GitHub Profile](https://github.com/user-name)
 
 ---
 
