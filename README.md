@@ -11,7 +11,7 @@ A real-time distributed chat system built using **Node.js**, **Express**, and **
 - ✅ Fully responsive **web UI** (HTML, CSS, JavaScript)
 - ✅ Send **text messages**, **emoji stickers**, and **images**(file upload route exists but frontend upload not enabled)
 - ✅ **Typing indicator**
-- ✅ **Clear Chat** feature
+- ✅ **Clear Chat**  feature
 - ✅ **Light/Dark theme** toggle
 - ✅ Random delay to simulate message reordering
 - 📎 File upload API exists but UI doesn't yet support selecting or uploading files
